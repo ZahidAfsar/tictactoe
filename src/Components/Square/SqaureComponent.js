@@ -1,4 +1,5 @@
 import React from 'react'
+import './SqaureComponent.css'
 
 const SqaureComponent = ({ value, onClick }) => {
   return (
